@@ -1,2 +1,2 @@
-# Proiect1SD
-Proiect 1 SD
+# Sorting Algorithms
+Some sorting algorithms and their time of execution to compare them with each other.
